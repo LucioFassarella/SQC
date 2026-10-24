@@ -1,2 +1,2 @@
 # SQC
-Repository of quantum operation simulations and their applications.
+Repository of quantum simulations of quantum operations and applications.
